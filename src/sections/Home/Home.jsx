@@ -48,7 +48,7 @@ const Home = () => {
                 whileInView={fade}
                 className="uppercase text-[3rem] md:text-[4rem] lg:text-[5rem] tracking-[-2px] lg:tracking-[-6px] leading-[4rem] lg:leading-[5rem] font-bold "
               >
-                Your Vision
+                Your Visions
               </motion.h1>
             </motion.div>
             <div className="lg:w-[40%] text-center lg:text-left">
